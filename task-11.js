@@ -17,4 +17,4 @@ function sameLetters(str1, str2){
     }
     return(count);
 }
-console.log(sameLetters("amanda", "loud"));
+console.log(sameLetters("amanda", "umuzi"));
